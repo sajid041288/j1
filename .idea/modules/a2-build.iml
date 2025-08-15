@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module external.linked.project.id="file:/$MODULE_DIR$/../../../../Desktop%20Copy/a2/#a2-build" external.linked.project.path="C:\Desktop Copy\a2" external.root.project.path="$MODULE_DIR$/../.." external.system.id="BSP" type="SBT_MODULE" version="4">
-  <component name="NewModuleRootManager">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_22">
     <output url="file://$MODULE_DIR$/../../project/target/scala-2.12/sbt-1.0/classes" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../project" />
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="22" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="BSP: scala-sdk-2.12.20" level="project" />
     <orderEntry type="module-library" scope="TEST">

@@ -34,17 +34,10 @@
       </map>
     </option>
   </component>
-  <component name="BspTargetCanCompile">
-    <option name="compilableTargets">
-      <list>
-        <option value="file:/$PROJECT_DIR$/../../Desktop%20Copy/a2/#a2/Compile" />
-        <option value="file:/$PROJECT_DIR$/../../Desktop%20Copy/a2/#a2/Test" />
-      </list>
-    </option>
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc4a3e56-62d3-47b0-a299-a9abb350f803" name="Changes" comment="yes">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="c2ada48b-47c4-4506-9f05-4f17559af54b" name="Changes" comment="yes">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,428 +50,31 @@
       <ProjectState />
     </projectState>
   </component>
-  <component name="ExternalProjectsManager">
-    <system id="BSP">
-      <state>
-        <projects_view>
-          <tree_state>
-            <expand>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="a2" type="f1a62948:ProjectNode" />
-              </path>
-            </expand>
-            <select />
-          </tree_state>
-        </projects_view>
-      </state>
-    </system>
-    <system id="SBT">
-      <state>
-        <projects_view>
-          <tree_state>
-            <expand>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="a2" type="f1a62948:ProjectNode" />
-              </path>
-            </expand>
-            <select />
-          </tree_state>
-        </projects_view>
-      </state>
-    </system>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Interface" />
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Main10" />
+        <entry key="$PROJECT_DIR$" value="Hello13" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;sajid041288&quot;
-  }
-}</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/sajid041288/JavaProject4",
-    "accountId": "dcfd51b3-5b65-43b7-8bfc-47345a6c47ee"
-  }
-}]]></component>
-  <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
-  </component>
-  <component name="ProjectCodeStyleSettingsMigration">
-    <option name="version" value="2" />
-  </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 1
-}</component>
-  <component name="ProjectId" id="2ws4pohWgDqeZcvXp73Cerd0yxb" />
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Application.ASCI.executor": "Run",
-    "Application.ASyn.executor": "Run",
-    "Application.Abstraction.executor": "Run",
-    "Application.Add.executor": "Run",
-    "Application.AddLambda1.executor": "Run",
-    "Application.Alive.executor": "Run",
-    "Application.Annonymous.executor": "Run",
-    "Application.Array1.executor": "Run",
-    "Application.ArrayEx.executor": "Run",
-    "Application.ArrayTriangle.executor": "Run",
-    "Application.Average.executor": "Run",
-    "Application.BufferString.executor": "Run",
-    "Application.BufferStringInsert.executor": "Run",
-    "Application.Butterfly.executor": "Run",
-    "Application.Cal1.executor": "Run",
-    "Application.Cal_Inheritance.executor": "Run",
-    "Application.Calci.executor": "Run",
-    "Application.Calculator.executor": "Run",
-    "Application.CheckTriangleType.executor": "Run",
-    "Application.Class_Object.executor": "Run",
-    "Application.CompareString.executor": "Run",
-    "Application.Con1.executor": "Run",
-    "Application.ConditionIf.executor": "Run",
-    "Application.Constants.executor": "Run",
-    "Application.DiagonalZero.executor": "Run",
-    "Application.Divisible.executor": "Run",
-    "Application.Divisor.executor": "Run",
-    "Application.ElectricityBill.executor": "Run",
-    "Application.Eligible.executor": "Run",
-    "Application.Emp.executor": "Run",
-    "Application.Emp2.executor": "Run",
-    "Application.Emp3.executor": "Run",
-    "Application.Emp4.executor": "Run",
-    "Application.Even.executor": "Run",
-    "Application.EvenOdd.executor": "Run",
-    "Application.Ex1.executor": "Run",
-    "Application.Ex2.executor": "Run",
-    "Application.ExFinally.executor": "Run",
-    "Application.Exception123.executor": "Run",
-    "Application.ExceptionNested.executor": "Run",
-    "Application.ExplictType.executor": "Run",
-    "Application.FAct.executor": "Run",
-    "Application.Fact.executor": "Run",
-    "Application.FactRecr.executor": "Run",
-    "Application.Facto.executor": "Run",
-    "Application.Factorial1.executor": "Run",
-    "Application.Fibonacii.executor": "Run",
-    "Application.Final_meth2.executor": "Run",
-    "Application.Final_method.executor": "Run",
-    "Application.Final_ver.executor": "Run",
-    "Application.For2.executor": "Run",
-    "Application.Forjava8.executor": "Run",
-    "Application.GC.executor": "Run",
-    "Application.GRADE.executor": "Run",
-    "Application.Halffaultycal.executor": "Run",
-    "Application.Height.executor": "Run",
-    "Application.Hello.executor": "Run",
-    "Application.HollowR.executor": "Run",
-    "Application.Htriangle.executor": "Run",
-    "Application.HyInheritance.executor": "Run",
-    "Application.Hybrid_Inheritance.executor": "Run",
-    "Application.Implicittype.executor": "Run",
-    "Application.Inheritance1.executor": "Run",
-    "Application.Interface.executor": "Run",
-    "Application.JoinThread (1).executor": "Run",
-    "Application.JoinThread.executor": "Run",
-    "Application.LeapYear.executor": "Run",
-    "Application.LoopLogic.executor": "Run",
-    "Application.LoopLogic1.executor": "Run",
-    "Application.LowerTriangle.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Main1.executor": "Run",
-    "Application.MainThread.executor": "Run",
-    "Application.Marks.executor": "Run",
-    "Application.MulH1.executor": "Run",
-    "Application.MulInheritance.executor": "Run",
-    "Application.MyThread.executor": "Run",
-    "Application.OuterInner.executor": "Run",
-    "Application.OuterInner1.executor": "Run",
-    "Application.PStar.executor": "Run",
-    "Application.Pattern.executor": "Run",
-    "Application.PatternStar.executor": "Run",
-    "Application.Poly.executor": "Run",
-    "Application.PolyC.executor": "Run",
-    "Application.PrimitiveToWrapper.executor": "Run",
-    "Application.PrintStar4.executor": "Run",
-    "Application.PrintTen.executor": "Run",
-    "Application.RGB.executor": "Run",
-    "Application.RevDiagonal.executor": "Run",
-    "Application.ReverseStringwithoutFunction.executor": "Run",
-    "Application.Salary.executor": "Run",
-    "Application.Staticvariable_1.executor": "Run",
-    "Application.StingBuilderReverse.executor": "Run",
-    "Application.String1.executor": "Run",
-    "Application.String2.executor": "Run",
-    "Application.StringBuferrS.executor": "Run",
-    "Application.StringBuilder1.executor": "Run",
-    "Application.StringBuilderReplace.executor": "Run",
-    "Application.StringConc.executor": "Run",
-    "Application.StringContains.executor": "Run",
-    "Application.StringEqual.executor": "Run",
-    "Application.StringL.executor": "Run",
-    "Application.StringN.executor": "Run",
-    "Application.StringScan.executor": "Run",
-    "Application.StringU.executor": "Run",
-    "Application.Student1.executor": "Run",
-    "Application.Student3.executor": "Run",
-    "Application.Sum.executor": "Run",
-    "Application.SumArray.executor": "Run",
-    "Application.SumofEO.executor": "Run",
-    "Application.SumofNumber.executor": "Run",
-    "Application.Swap.executor": "Run",
-    "Application.Switch1.executor": "Run",
-    "Application.Switch2.executor": "Run",
-    "Application.Syn.executor": "Run",
-    "Application.TRY_CATCH.executor": "Run",
-    "Application.Temp.executor": "Run",
-    "Application.Test.executor": "Run",
-    "Application.Test1.executor": "Run",
-    "Application.Test11.executor": "Run",
-    "Application.ThreadR.executor": "Run",
-    "Application.ThrowEx.executor": "Run",
-    "Application.ThrowsEx.executor": "Run",
-    "Application.TwoDASUM.executor": "Run",
-    "Application.TwoDArray.executor": "Run",
-    "Application.Vowel.executor": "Run",
-    "Application.Weekdays.executor": "Run",
-    "Application.dowhile.executor": "Run",
-    "Application.if_st.executor": "Run",
-    "Application.sum1.executor": "Run",
-    "Application.swith3.executor": "Run",
-    "Application.whileLoop.executor": "Run",
-    "Application.whileR.executor": "Run",
-    "Application.while_loop.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "full.screen.before.presentation.mode": "false",
-    "git-widget-placeholder": "h1",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Desktop Copy/a2",
-    "project.structure.last.edited": "SDKs",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.1150748",
-    "settings.editor.selected.configurable": "bsp.project.settings.configurable"
+    "git-widget-placeholder": "h1"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Syn">
-    <configuration default="true" type="AZURE_FUNCTION_SUPPORT" factoryName="Run Functions">
-      <option name="appName" />
-      <option name="appServicePlanName" />
-      <option name="appServicePlanResourceGroup" />
-      <option name="appSettingsKey" value="3764294a-7652-4905-858e-3dac80b192d0" />
-      <option name="artifact" />
-      <option name="debugOptions" />
-      <option name="deployment" />
-      <option name="deploymentStagingDirectoryPath" />
-      <option name="funcPath" />
-      <option name="functionHostArguments" />
-      <option name="hostJsonPath" />
-      <option name="insightsName" />
-      <option name="instrumentationKey" />
-      <option name="javaVersion" />
-      <option name="localSettingsJsonPath" />
-      <option name="moduleName" />
-      <option name="os" />
-      <option name="pricingTier" />
-      <option name="providerMap">
-        <map />
-      </option>
-      <option name="region" />
-      <option name="resourceGroup" />
-      <option name="stagingFolder" />
-      <option name="subscription" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ASyn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ASyn" />
-      <module name="a2.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Alive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Alive" />
-      <module name="a2.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JoinThread (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JoinThread" />
-      <module name="a2.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JoinThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.JavaCore.JoinThread" />
-      <module name="a2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.JavaCore.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-        <option name="BSP.BeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Syn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Syn" />
-      <module name="a2.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Syn" />
-        <item itemvalue="Application.ASyn" />
-        <item itemvalue="Application.JoinThread (1)" />
-        <item itemvalue="Application.JoinThread" />
-        <item itemvalue="Application.Alive" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="ScalaProjectSettings">
     <option name="migrateConfigurationsNotificationShown" value="true" />
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="bc4a3e56-62d3-47b0-a299-a9abb350f803" name="Changes" comment="" />
-      <created>1746817135023</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1746817135023</updated>
-    </task>
-    <task id="LOCAL-00001" summary="D1">
-      <option name="closed" value="true" />
-      <created>1750094616175</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1750094616175</updated>
-    </task>
-    <task id="LOCAL-00002" summary="D2">
-      <option name="closed" value="true" />
-      <created>1750098447506</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1750098447506</updated>
-    </task>
-    <task id="LOCAL-00003" summary="D2">
-      <option name="closed" value="true" />
-      <created>1750613997013</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1750613997013</updated>
-    </task>
-    <task id="LOCAL-00004" summary="D2">
-      <option name="closed" value="true" />
-      <created>1755207639078</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1755207639079</updated>
-    </task>
-    <task id="LOCAL-00005" summary="D2">
-      <option name="closed" value="true" />
-      <created>1755208428320</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1755208428320</updated>
-    </task>
-    <task id="LOCAL-00006" summary="D2">
-      <option name="closed" value="true" />
-      <created>1755209019716</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1755209019716</updated>
-    </task>
-    <task id="LOCAL-00007" summary="D2">
-      <option name="closed" value="true" />
-      <created>1755210285927</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1755210285927</updated>
-    </task>
-    <task id="LOCAL-00008" summary="D2">
-      <option name="closed" value="true" />
-      <created>1755215918979</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1755215918979</updated>
-    </task>
-    <task id="LOCAL-00009" summary="done">
-      <option name="closed" value="true" />
-      <created>1755257837863</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1755257837863</updated>
-    </task>
-    <task id="LOCAL-00010" summary="yes">
-      <option name="closed" value="true" />
-      <created>1755258046006</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1755258046006</updated>
-    </task>
-    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TerminalProjectNonSharedOptionsProvider">
-    <option name="startingDirectory" value="$PROJECT_DIR$" />
+    <option name="startingDirectory" value="$PROJECT_DIR$/abc" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
-    <option name="RECENT_FILTERS">
-      <map>
-        <entry key="User">
-          <value>
-            <list>
-              <RecentGroup>
-                <option name="FILTER_VALUES">
-                  <option value="*" />
-                </option>
-              </RecentGroup>
-            </list>
-          </value>
-        </entry>
-      </map>
-    </option>
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
@@ -489,14 +85,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/Main10" />
-                      </list>
-                    </value>
-                  </entry>
-                  <entry key="user">
-                    <value>
-                      <list>
-                        <option value="*" />
+                        <option value="h1" />
                       </list>
                     </value>
                   </entry>
@@ -509,52 +98,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="D1" />
-    <MESSAGE value="D2" />
-    <MESSAGE value="done" />
     <MESSAGE value="yes" />
     <option name="LAST_COMMIT_MESSAGE" value="yes" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/scala/Salary.java</url>
-          <line>3</line>
-          <properties class="Salary" method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java</url>
-          <line>1</line>
-          <properties class="Scratch" method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/scala/Even.java</url>
-          <line>3</line>
-          <properties class="Even" method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/scala/Facto.java</url>
-          <line>3</line>
-          <properties class="Facto" method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
