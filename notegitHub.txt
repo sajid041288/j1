@@ -1,0 +1,50 @@
+git command for the first setup
+
+Command 1
+git init 
+it will create an empty repository in the local desktop
+
+Command 2
+git config --global user.name "sajid"
+git config --global user.email "sajidnitb39@gmail.com"
+
+for setup only
+--------------------------------------------------
+
+command 3
+
+git add . 
+to add the files
+
+command 4
+
+git commit -m "created one file"
+
+command 5 
+
+git branch -m main
+
+command 6
+
+git remote add origin path
+
+command 7
+
+git push -u origin main
+
+
+…or create a new repository on the command line
+echo "# JavaProject2" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/sajid041288/JavaProject2.git
+git push -u origin main
+
+…or push an existing repository from the command line
+git remote add origin https://github.com/sajid041288/JavaProject2.git
+git branch -M main
+git push -u origin main
+
+
